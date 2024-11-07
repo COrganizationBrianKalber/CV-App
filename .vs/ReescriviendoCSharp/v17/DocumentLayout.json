@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\scripts\\learnxinyminutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\learnxinyminutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\scripts\\homeworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\homeworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\scripts\\pract_bigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\pract_bigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\scripts\\proyecttiptodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\proyecttiptodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeWorks.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\HomeWorks.cs",
+              "RelativeDocumentMoniker": "Scripts\\HomeWorks.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\HomeWorks.cs",
+              "RelativeToolTip": "Scripts\\HomeWorks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:49:54.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "Scripts\\XMLFile1.xml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\XMLFile1.xml",
+              "RelativeToolTip": "Scripts\\XMLFile1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-06T16:39:37.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LearnXinYMinutes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\LearnXinYMinutes.cs",
+              "RelativeDocumentMoniker": "Scripts\\LearnXinYMinutes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\LearnXinYMinutes.cs",
+              "RelativeToolTip": "Scripts\\LearnXinYMinutes.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:21:59.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProyectTipToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\ProyectTipToDoList.cs",
+              "RelativeDocumentMoniker": "Scripts\\ProyectTipToDoList.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\ProyectTipToDoList.cs",
+              "RelativeToolTip": "Scripts\\ProyectTipToDoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:02:12.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pract_BigO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Pract_BigO.cs",
+              "RelativeDocumentMoniker": "Scripts\\Pract_BigO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Pract_BigO.cs",
+              "RelativeToolTip": "Scripts\\Pract_BigO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:48:30.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

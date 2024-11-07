@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\ReescriviendoCSharp\bin\Debug\ReescriviendoCSharp.exe.config
+C:\Users\Usuario\source\repos\ReescriviendoCSharp\bin\Debug\ReescriviendoCSharp.exe
+C:\Users\Usuario\source\repos\ReescriviendoCSharp\bin\Debug\ReescriviendoCSharp.pdb
+C:\Users\Usuario\source\repos\ReescriviendoCSharp\obj\Debug\ReescriviendoCSharp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ReescriviendoCSharp\obj\Debug\ReescriviendoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ReescriviendoCSharp\obj\Debug\ReescriviendoCSharp.exe
+C:\Users\Usuario\source\repos\ReescriviendoCSharp\obj\Debug\ReescriviendoCSharp.pdb
