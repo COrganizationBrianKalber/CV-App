@@ -1,0 +1,8 @@
+#Ignorar la carpeta de configuraciones de VS
+.vs/
+
+#Compilaciones y carpetas temporales
+bin/
+obj/
+*.exe
+*.dll
