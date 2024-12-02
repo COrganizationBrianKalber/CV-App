@@ -3,24 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\scripts\\learnxinyminutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\learnxinyminutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D108CB9F-0240-41C9-8A7B-60CB31CC0DA4}|..\\DAL\\DAL.csproj|c:\\users\\usuario\\source\\repos\\dal\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\scripts\\homeworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\homeworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D108CB9F-0240-41C9-8A7B-60CB31CC0DA4}|..\\DAL\\DAL.csproj|c:\\users\\usuario\\source\\repos\\dal\\entidades\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\scripts\\pract_bigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\pract_bigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\scripts\\proyecttiptodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\proyecttiptodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\controlroomsprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\controlroomsprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\sardinilla\\caractprincipales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\sardinilla\\caractprincipales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\all_cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\all_cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\logicsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\logicsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\data\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\data\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\weekanddays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:scripts\\concesionaria\\weekanddays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,83 +55,172 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 131,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 308,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlRoomsPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\ControlRoomsPrincipal.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\ControlRoomsPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\ControlRoomsPrincipal.cs",
+              "RelativeToolTip": "Scripts\\Concesionaria\\ControlRoomsPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:43:53.944Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogicSala.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\LogicSala.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\LogicSala.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\LogicSala.cs",
+              "RelativeToolTip": "Scripts\\Concesionaria\\LogicSala.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:32:51.471Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeekAndDays.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\WeekAndDays.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\WeekAndDays.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\WeekAndDays.cs",
+              "RelativeToolTip": "Scripts\\Concesionaria\\WeekAndDays.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:54:57.606Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Program.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Program.cs",
+              "RelativeToolTip": "Scripts\\Concesionaria\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:42:18.89Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "All_Cars.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\All_Cars.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\All_Cars.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\All_Cars.cs",
+              "RelativeToolTip": "Scripts\\Concesionaria\\All_Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:15:04.952Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\DataBase.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Data\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\DataBase.cs",
+              "RelativeToolTip": "Scripts\\Concesionaria\\Data\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:21:25.16Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaractPrincipales.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Sardinilla\\CaractPrincipales.cs",
+              "RelativeDocumentMoniker": "Scripts\\Sardinilla\\CaractPrincipales.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Sardinilla\\CaractPrincipales.cs",
+              "RelativeToolTip": "Scripts\\Sardinilla\\CaractPrincipales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:09:23.721Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Data\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.cs [Design]",
+              "RelativeToolTip": "Scripts\\Concesionaria\\Data\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:53:53.159Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Data\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.cs",
+              "RelativeToolTip": "Scripts\\Concesionaria\\Data\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:54:31.498Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Data\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.Designer.cs",
+              "RelativeToolTip": "Scripts\\Concesionaria\\Data\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:54:42.682Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Autos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DAL\\Entidades\\Autos.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Entidades\\Autos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DAL\\Entidades\\Autos.cs",
+              "RelativeToolTip": "..\\DAL\\Entidades\\Autos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:03:42.209Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DAL\\Contexto.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Contexto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DAL\\Contexto.cs",
+              "RelativeToolTip": "..\\DAL\\Contexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:33:05.447Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeWorks.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\HomeWorks.cs",
-              "RelativeDocumentMoniker": "Scripts\\HomeWorks.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\HomeWorks.cs",
-              "RelativeToolTip": "Scripts\\HomeWorks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T13:49:54.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "XMLFile1.xml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\XMLFile1.xml",
-              "RelativeDocumentMoniker": "Scripts\\XMLFile1.xml",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\XMLFile1.xml",
-              "RelativeToolTip": "Scripts\\XMLFile1.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-11-06T16:39:37.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LearnXinYMinutes.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\LearnXinYMinutes.cs",
-              "RelativeDocumentMoniker": "Scripts\\LearnXinYMinutes.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\LearnXinYMinutes.cs",
-              "RelativeToolTip": "Scripts\\LearnXinYMinutes.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:21:59.667Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 269,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProyectTipToDoList.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\ProyectTipToDoList.cs",
-              "RelativeDocumentMoniker": "Scripts\\ProyectTipToDoList.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\ProyectTipToDoList.cs",
-              "RelativeToolTip": "Scripts\\ProyectTipToDoList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:02:12.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pract_BigO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Pract_BigO.cs",
-              "RelativeDocumentMoniker": "Scripts\\Pract_BigO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Pract_BigO.cs",
-              "RelativeToolTip": "Scripts\\Pract_BigO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T13:48:30.94Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
