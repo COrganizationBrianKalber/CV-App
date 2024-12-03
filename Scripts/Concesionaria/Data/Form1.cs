@@ -1,4 +1,6 @@
-﻿using MySql.Data.MySqlClient;
+﻿using BLL;
+using DAL;
+using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -40,6 +42,23 @@ namespace ReescriviendoCSharp.Scripts.Concesionaria.Data
             else 
             {
                 MessageBox.Show("Error al conectar, Brian!");
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            using (Contexto ctx = new Contexto()) 
+            {
+                var oAutos = new ServicioAutos(ctx);
+                List<Autos> oLista = oAutos.Obtener();
+
+                if (oLista != null) 
+                {
+                    foreach (var autos in oLista) 
+                    {
+                        MessageBox.Show(autos.Marcas);
+                    }
+                }
             }
         }
     }

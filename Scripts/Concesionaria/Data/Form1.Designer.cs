@@ -59,6 +59,7 @@
             this.Controls.Add(this.conection);
             this.Name = "Form1";
             this.Text = "MyConector";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
