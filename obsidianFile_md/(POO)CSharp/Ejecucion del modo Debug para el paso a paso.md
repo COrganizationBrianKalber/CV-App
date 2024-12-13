@@ -1,0 +1,1 @@
+e ir viendo que es lo que tengo en mi codigo mal o va haciendo para tener mas conocimientos a fondo del tema.
