@@ -6,14 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{25BA0C15-10F6-4483-8837-22FB22E2FBFC}|..\\BLL\\BLL.csproj|c:\\users\\usuario\\source\\repos\\bll\\servicioautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D108CB9F-0240-41C9-8A7B-60CB31CC0DA4}|..\\DAL\\DAL.csproj|c:\\users\\usuario\\source\\repos\\dal\\entidades\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D108CB9F-0240-41C9-8A7B-60CB31CC0DA4}|..\\DAL\\DAL.csproj|c:\\users\\usuario\\source\\repos\\dal\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|c:\\users\\usuario\\source\\repos\\reescriviendocsharp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D108CB9F-0240-41C9-8A7B-60CB31CC0DA4}|..\\DAL\\DAL.csproj|c:\\users\\usuario\\source\\repos\\dal\\entidades\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D6CBB58-7885-47C4-9F1A-37040159BB5E}|ReescriviendoCSharp.csproj|C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\scripts\\concesionaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,11 +59,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 308,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ControlRoomsPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\ControlRoomsPrincipal.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\ControlRoomsPrincipal.cs",
@@ -80,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "LogicSala.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\LogicSala.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\LogicSala.cs",
@@ -93,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "WeekAndDays.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\WeekAndDays.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\WeekAndDays.cs",
@@ -106,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Program.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Program.cs",
@@ -115,12 +111,11 @@
               "ViewState": "AgIAABoAAAAAAAAAAAAowCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T21:42:18.89Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "All_Cars.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\All_Cars.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\All_Cars.cs",
@@ -133,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DataBase.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\DataBase.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Data\\DataBase.cs",
@@ -146,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "CaractPrincipales.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Sardinilla\\CaractPrincipales.cs",
               "RelativeDocumentMoniker": "Scripts\\Sardinilla\\CaractPrincipales.cs",
@@ -159,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Data\\Form1.cs",
@@ -167,12 +162,11 @@
               "RelativeToolTip": "Scripts\\Concesionaria\\Data\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T21:53:53.159Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Data\\Form1.cs",
@@ -181,12 +175,11 @@
               "ViewState": "AgIAACUAAAAAAAAAAAAAADoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T21:54:31.498Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\Scripts\\Concesionaria\\Data\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Scripts\\Concesionaria\\Data\\Form1.Designer.cs",
@@ -195,26 +188,24 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T21:54:42.682Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Autos.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DAL\\Entidades\\Autos.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Entidades\\Autos.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DAL\\Entidades\\Autos.cs",
               "RelativeToolTip": "..\\DAL\\Entidades\\Autos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T19:03:42.209Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Contexto.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DAL\\Contexto.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Contexto.cs",
@@ -223,8 +214,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T19:33:05.447Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -236,26 +226,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ReescriviendoCSharp\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEsAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-03T11:02:39.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ServicioAutos.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BLL\\ServicioAutos.cs",
               "RelativeDocumentMoniker": "..\\BLL\\ServicioAutos.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BLL\\ServicioAutos.cs",
               "RelativeToolTip": "..\\BLL\\ServicioAutos.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T10:11:28.737Z",
               "EditorCaption": ""
