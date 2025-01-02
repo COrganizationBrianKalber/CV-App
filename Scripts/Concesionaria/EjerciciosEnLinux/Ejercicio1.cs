@@ -39,12 +39,43 @@ namespace Ejercicios
 
         public void EjecutarBlucle()
         {
-            int i = 0;
-            while (i < 100)
+            int multiploDeTres = 3;
+            int multiploDeCinco = 5;
+            for (int i = 0; i < 101; i++)
             {
-                Console.WriteLine("B: ");
-                Console.ReadKey();
-                i ++;
+                int auxTres = i % multiploDeTres;
+                int auxCinco = i % multiploDeCinco;
+
+                /*
+                P | Q | P ^ Q
+                0 | 0 |   0
+                0 | 1 |   0
+                1 | 0 |   0
+                1 | 1 |   1
+                */
+
+                /*
+                P | Q | P v Q
+                0 | 0 |   0
+                0 | 1 |   1
+                1 | 0 |   1
+                1 | 1 |   1
+                */
+                if (auxTres == 0 && auxCinco == 0)
+                {
+                    Console.WriteLine("Fizz & Buzz");
+                } else if (auxCinco == 0) 
+                {
+                    Console.WriteLine("Buzz");
+                } else if (auxTres == 0) 
+                {
+                    Console.WriteLine("Fizz");
+                } else 
+                {
+                    Console.WriteLine($"{i}");
+
+                }
+
             }
         }
     }
@@ -52,6 +83,11 @@ namespace Ejercicios
 }
 // dotnet run --proyect /home/briankalber/Documents/codeVSPagWeb/Scripts/Concesionaria/EjerciciosEnLinux 
 //Ejecutar el proyecto especifico con este comando  
+
+
+
+
+
 
 
 
