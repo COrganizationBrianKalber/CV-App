@@ -26,14 +26,6 @@ using System;
 
 namespace Ejercicios
 {
-    class Program
-    {
-        static void Main()
-        {
-            FizzBuzz juego = new FizzBuzz();
-            juego.EjecutarBlucle();
-        }
-    }
     public class FizzBuzz
     {
 
