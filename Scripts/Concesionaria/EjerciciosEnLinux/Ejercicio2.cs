@@ -11,5 +11,25 @@
 ///</summary>
 //Ejercicio 2
 
+// Anagrama
+
+namespace Ejercicio2
+{
+    public class PrimeraClaseAnagrama
+    {
+        public void anagramaPalabras()
+        {
+            Console.WriteLine("Consola, Hola");
+        }
+    }
+}
+
+
+
+
+
+
+
+
 
 
