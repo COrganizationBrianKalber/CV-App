@@ -24,7 +24,7 @@ using System;
 
 
 
-namespace Ejercicios
+namespace Ejercicio1
 {
     public class FizzBuzz
     {
