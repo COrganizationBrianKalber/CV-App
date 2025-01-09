@@ -9,6 +9,17 @@
 
 
 
+namespace Ejercicio3
+{
+    public class ClaseEjercicio3
+    {
+        public void fibonacci()
+        {
+            
+        }
+    }       
+}
+
 
 
 
